@@ -1,0 +1,1 @@
+Este proyecto consiste en la realización de distintas actividades, utilizando distintas tecnologías del ecosistema bigdata, para ganar intuición sobre las opciones disponibles y poner en práctica lo aprendido anteriormente
